@@ -1,16 +1,16 @@
 1. Projeyi İndir
 git clone https://github.com/Yusuf0Z/Yavuzlar_Bilet_Satin_Alma_Gorevi.git
+
 2. Proje Dizinine Gir
-bash
 cd Yavuzlar_Bilet_Satin_Alma_Gorevi
+
 3. Docker Container'ını Başlat
-bash
 docker-compose up -d
+
 4. Kurulumu Kontrol Et
-bash
 docker-compose ps
+
 5. Uygulamayı Aç
-bash
 # Tarayıcıda otomatik açmak için (Linux/Mac)
 open http://localhost:8080
 
