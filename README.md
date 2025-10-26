@@ -1,10 +1,10 @@
 1. Projeyi İndir
    
-git clone https://github.com/Yusuf0Z/Yavuzlar_Bilet_Satin_Alma_Gorevi.git
+git clone https://github.com/Yusuf0Z/bilet-satin-alma.git
 
 2. Proje Dizinine Gir
    
-cd Yavuzlar_Bilet_Satin_Alma_Gorevi
+cd bilet-satin-alma
 
 3. Docker Container'ını Başlat
    
